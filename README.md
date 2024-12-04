@@ -37,10 +37,6 @@ The dataset contains historical seismic data with features such as:
 The dataset is preprocessed to handle missing values, scale features, and ensure model readiness.
 
 ##**Key Results**
-- **Regression Metrics:**
-
--Root Mean Squared Error (RMSE): e.g., 0.245
--Mean Squared Error (MSE): e.g., 0.06
 -**Classification Metrics:**
 
 -Accuracy: 97.37%
